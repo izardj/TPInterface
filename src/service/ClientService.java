@@ -1,6 +1,6 @@
 package service;
 
-public class ClientService implements IClientService, IClientVIPService {
+public class ClientService implements IClientService, IClientServiceVip {
 	private int id;
 	@Override
 	public void direBonjour() {

@@ -1,6 +1,6 @@
 package service;
 
-public interface IClientVIPService extends IClientService {
+public interface IClientServiceVip extends IClientService {
 	/**
 	 * JE SUIS VIP
 	 */
